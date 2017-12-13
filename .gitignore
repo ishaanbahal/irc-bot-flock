@@ -1,0 +1,6 @@
+.vscode
+config.json
+*.pyc
+*.swp
+.DS_STORE
+*.tmp

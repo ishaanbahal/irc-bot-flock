@@ -1,0 +1,24 @@
+{
+    "channels":{
+        "#python-overflow":{
+            "token":"",
+            "user":"",
+            "to_irc":"",
+            "to_reddit":"",
+            "to_google":"",
+            "flock_url":"https://api.flock.com/v1/chat.sendMessage"
+        },
+        "##linux":{
+            "token":"",
+            "user":"",
+            "to_irc":"",
+            "to_reddit":"",
+            "to_google":"",
+            "flock_url":"https://api.flock.com/v1/chat.sendMessage"
+        }
+    },
+    "auth":{
+        "nick":"",
+        "pwd":""
+    }
+}
